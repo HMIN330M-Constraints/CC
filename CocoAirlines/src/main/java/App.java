@@ -25,7 +25,7 @@ public class App
 		boolean helpMode = line.hasOption("help") || args.length == 0;
 		if (helpMode) {
 			final HelpFormatter formatter = new HelpFormatter();
-			formatter.printHelp("sudoku", options, true);
+			formatter.printHelp("cocoAirlines", options, true);
 			System.exit(0);
 		}
 		// Check arguments and options
