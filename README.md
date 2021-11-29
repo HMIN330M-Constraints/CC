@@ -9,7 +9,7 @@
 - [Fiche CC](CC.pdf)
 - Le lien **GitHub Classroom** vous permet de créer un fork par équipe du projet et d'affecter automatiquement le projet de l'équipe à l'organisation * HMIN330M-Constraints* :
 
-XXX
+https://classroom.github.com/a/98qIJfET
 
 ## Documentations
 
